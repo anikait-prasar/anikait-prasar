@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anikait17a
-- 👀 I’m interested in Web Development &
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 You can contact me at anikait1892@gmail.com
