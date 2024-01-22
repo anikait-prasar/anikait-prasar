@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @anikait17a
+- 👋 Hi, I’m @anikait-prasar
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Frontend Development
-- 💞️ I’m looking to collaborate on Web Development & DSA (using C++)
+- 🌱 I’m currently learning Frontend Development & DSA (using C++)
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 You can contact me at anikait1892@gmail.com
 
 <!---
